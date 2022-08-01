@@ -8,4 +8,4 @@ Launch the package then publish the topic.
 roslaunch ros_tutorials tutorial.launch  
 rostopic pub circular_motion ros_tutorials/CircularMotion "radius: 0.0 velocity: 0.0" 
 ```
-Change the radius and velocity as you please and the turtle will move with the assigned radisu and velocity.
+Change the radius and velocity as you please and the turtle will move with the assigned radius and velocity.
