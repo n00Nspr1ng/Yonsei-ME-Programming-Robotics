@@ -11,12 +11,13 @@ rostopic pub circular_motion ros_tutorials/CircularMotion "radius: 0.0 velocity:
 Change the radius and velocity as you please and the turtle will move with the assigned radius and velocity.
 
 
-## 2nd week: myrobot  
+## 2nd week - 1: myrobot  
 This package makes you move a robot arm in rviz as described in the urdf file.   
 ```
 roslaunch myrobot 3dof_robot.launch  
 ```  
 
-https://user-images.githubusercontent.com/97090402/183670499-d2c66d71-fa2f-441e-a1fe-6e09baa95164.mp4
+https://user-images.githubusercontent.com/97090402/183670753-77395bbb-a2d5-4a3e-849d-f6c791df8b4a.mp4
 
-
+## 2nd week - 2: robot_arm_kinematics  
+This folder contains MATLAB files.   
