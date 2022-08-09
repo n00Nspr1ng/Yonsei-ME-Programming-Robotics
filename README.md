@@ -18,7 +18,7 @@ This package makes you move a robot arm in rviz as described in the urdf file.
 roslaunch myrobot 3dof_robot.launch  
 ```  
 
-https://user-images.githubusercontent.com/97090402/183674590-695a197a-f53c-4ef0-9d02-3462dda157cb.mp4
+![Alt Text](![ezgif com-gif-maker](https://user-images.githubusercontent.com/97090402/183676157-b78d0049-e8ce-4b52-97d1-cd04493f14d3.gif))
 
 
   
