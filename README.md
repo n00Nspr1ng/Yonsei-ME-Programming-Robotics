@@ -21,7 +21,7 @@ roslaunch myrobot 3dof_robot.launch
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/97090402/183676157-b78d0049-e8ce-4b52-97d1-cd04493f14d3.gif)
 
 
-<img src="https://user-images.githubusercontent.com/97090402/183676157-b78d0049-e8ce-4b52-97d1-cd04493f14d3.gif" width="1114" height="630" />
+<img src="https://user-images.githubusercontent.com/97090402/183676157-b78d0049-e8ce-4b52-97d1-cd04493f14d3.gif" width="780" height="441" />
   
 ## 2nd week - 2: robot_arm_kinematics  
 This folder contains MATLAB files that solves the problem enlisted in the pdf file.  
