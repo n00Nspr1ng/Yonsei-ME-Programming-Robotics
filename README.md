@@ -12,9 +12,11 @@ Change the radius and velocity as you please and the turtle will move with the a
 
 
 ## 2nd week: myrobot  
-This package shows a robot arm in rviz as described in the urdf file.  
-Then you can move the angles as you please in the 
-Launch the package then manually publish the topic.
+This package makes you move a robot arm in rviz as described in the urdf file.   
 ```
 roslaunch myrobot 3dof_robot.launch  
-```
+```  
+
+https://user-images.githubusercontent.com/97090402/183670499-d2c66d71-fa2f-441e-a1fe-6e09baa95164.mp4
+
+
