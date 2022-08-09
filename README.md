@@ -25,4 +25,7 @@ https://user-images.githubusercontent.com/97090402/183671099-1e0ff82f-52c8-4917-
 
   
 ## 2nd week - 2: robot_arm_kinematics  
-This folder contains MATLAB files.   
+This folder contains MATLAB files that solves the problem enlisted in the pdf file.  
+homogeneous_matrix.m : a function for getting homogeneous transformation matrix in D-H notation.  
+prob_1.m : This script uses the homogeneous_matrix function to get the end-effector position for the first problem.  
+prob2.m : This script uses MATLAB add-on "Robotics System Toolbox" to solve the ik for the robot arm.  
